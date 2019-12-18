@@ -1,2 +1,2 @@
-# machine_learning
+# Machine_Learning
 AIML Projects
